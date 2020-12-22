@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StudentDailyReport.cs\bin\Debug\netcoreapp3.1\StudentDailyReport.cs.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StudentDailyReport.cs\bin\Debug\netcoreapp3.1\StudentDailyReport.cs.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StudentDailyReport.cs\bin\Debug\netcoreapp3.1\StudentDailyReport.cs.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StudentDailyReport.cs\bin\Debug\netcoreapp3.1\StudentDailyReport.cs.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StudentDailyReport.cs\bin\Debug\netcoreapp3.1\StudentDailyReport.cs.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StudentDailyReport.cs\bin\Debug\netcoreapp3.1\StudentDailyReport.cs.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StudentDailyReport.cs\obj\Debug\netcoreapp3.1\StudentDailyReport.cs.csprojAssemblyReference.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StudentDailyReport.cs\obj\Debug\netcoreapp3.1\StudentDailyReport.cs.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StudentDailyReport.cs\obj\Debug\netcoreapp3.1\StudentDailyReport.cs.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StudentDailyReport.cs\obj\Debug\netcoreapp3.1\StudentDailyReport.cs.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StudentDailyReport.cs\obj\Debug\netcoreapp3.1\StudentDailyReport.cs.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StudentDailyReport.cs\obj\Debug\netcoreapp3.1\StudentDailyReport.cs.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StudentDailyReport.cs\obj\Debug\netcoreapp3.1\StudentDailyReport.cs.genruntimeconfig.cache
