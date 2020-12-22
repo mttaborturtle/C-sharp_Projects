@@ -1,0 +1,13 @@
+C:\Users\mttab\Desktop\basic_c_sharp_programs\Accounting.cs\Accounting.cs\bin\Debug\netcoreapp3.1\Accounting.cs.exe
+C:\Users\mttab\Desktop\basic_c_sharp_programs\Accounting.cs\Accounting.cs\bin\Debug\netcoreapp3.1\Accounting.cs.deps.json
+C:\Users\mttab\Desktop\basic_c_sharp_programs\Accounting.cs\Accounting.cs\bin\Debug\netcoreapp3.1\Accounting.cs.runtimeconfig.json
+C:\Users\mttab\Desktop\basic_c_sharp_programs\Accounting.cs\Accounting.cs\bin\Debug\netcoreapp3.1\Accounting.cs.runtimeconfig.dev.json
+C:\Users\mttab\Desktop\basic_c_sharp_programs\Accounting.cs\Accounting.cs\bin\Debug\netcoreapp3.1\Accounting.cs.dll
+C:\Users\mttab\Desktop\basic_c_sharp_programs\Accounting.cs\Accounting.cs\bin\Debug\netcoreapp3.1\Accounting.cs.pdb
+C:\Users\mttab\Desktop\basic_c_sharp_programs\Accounting.cs\Accounting.cs\obj\Debug\netcoreapp3.1\Accounting.cs.csprojAssemblyReference.cache
+C:\Users\mttab\Desktop\basic_c_sharp_programs\Accounting.cs\Accounting.cs\obj\Debug\netcoreapp3.1\Accounting.cs.AssemblyInfoInputs.cache
+C:\Users\mttab\Desktop\basic_c_sharp_programs\Accounting.cs\Accounting.cs\obj\Debug\netcoreapp3.1\Accounting.cs.AssemblyInfo.cs
+C:\Users\mttab\Desktop\basic_c_sharp_programs\Accounting.cs\Accounting.cs\obj\Debug\netcoreapp3.1\Accounting.cs.csproj.CoreCompileInputs.cache
+C:\Users\mttab\Desktop\basic_c_sharp_programs\Accounting.cs\Accounting.cs\obj\Debug\netcoreapp3.1\Accounting.cs.dll
+C:\Users\mttab\Desktop\basic_c_sharp_programs\Accounting.cs\Accounting.cs\obj\Debug\netcoreapp3.1\Accounting.cs.pdb
+C:\Users\mttab\Desktop\basic_c_sharp_programs\Accounting.cs\Accounting.cs\obj\Debug\netcoreapp3.1\Accounting.cs.genruntimeconfig.cache
