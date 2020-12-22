@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\MathApp\bin\Debug\netcoreapp3.1\MathApp.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\MathApp\bin\Debug\netcoreapp3.1\MathApp.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\MathApp\bin\Debug\netcoreapp3.1\MathApp.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\MathApp\bin\Debug\netcoreapp3.1\MathApp.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\MathApp\bin\Debug\netcoreapp3.1\MathApp.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\MathApp\bin\Debug\netcoreapp3.1\MathApp.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\MathApp\obj\Debug\netcoreapp3.1\MathApp.csprojAssemblyReference.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\MathApp\obj\Debug\netcoreapp3.1\MathApp.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\MathApp\obj\Debug\netcoreapp3.1\MathApp.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\MathApp\obj\Debug\netcoreapp3.1\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\MathApp\obj\Debug\netcoreapp3.1\MathApp.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\MathApp\obj\Debug\netcoreapp3.1\MathApp.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\MathApp\obj\Debug\netcoreapp3.1\MathApp.genruntimeconfig.cache
