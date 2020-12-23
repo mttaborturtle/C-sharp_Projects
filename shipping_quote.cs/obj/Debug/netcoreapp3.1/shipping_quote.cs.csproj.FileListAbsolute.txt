@@ -1,0 +1,12 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\bin\Debug\netcoreapp3.1\shipping_quote.cs.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\bin\Debug\netcoreapp3.1\shipping_quote.cs.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\bin\Debug\netcoreapp3.1\shipping_quote.cs.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\bin\Debug\netcoreapp3.1\shipping_quote.cs.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\bin\Debug\netcoreapp3.1\shipping_quote.cs.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\bin\Debug\netcoreapp3.1\shipping_quote.cs.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\obj\Debug\netcoreapp3.1\shipping_quote.cs.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\obj\Debug\netcoreapp3.1\shipping_quote.cs.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\obj\Debug\netcoreapp3.1\shipping_quote.cs.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\obj\Debug\netcoreapp3.1\shipping_quote.cs.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\obj\Debug\netcoreapp3.1\shipping_quote.cs.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\obj\Debug\netcoreapp3.1\shipping_quote.cs.genruntimeconfig.cache
