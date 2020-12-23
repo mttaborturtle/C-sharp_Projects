@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AllAboutStrings\bin\Debug\netcoreapp3.1\AllAboutStrings.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AllAboutStrings\bin\Debug\netcoreapp3.1\AllAboutStrings.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AllAboutStrings\bin\Debug\netcoreapp3.1\AllAboutStrings.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AllAboutStrings\bin\Debug\netcoreapp3.1\AllAboutStrings.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AllAboutStrings\bin\Debug\netcoreapp3.1\AllAboutStrings.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AllAboutStrings\bin\Debug\netcoreapp3.1\AllAboutStrings.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AllAboutStrings\obj\Debug\netcoreapp3.1\AllAboutStrings.csprojAssemblyReference.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AllAboutStrings\obj\Debug\netcoreapp3.1\AllAboutStrings.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AllAboutStrings\obj\Debug\netcoreapp3.1\AllAboutStrings.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AllAboutStrings\obj\Debug\netcoreapp3.1\AllAboutStrings.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AllAboutStrings\obj\Debug\netcoreapp3.1\AllAboutStrings.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AllAboutStrings\obj\Debug\netcoreapp3.1\AllAboutStrings.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AllAboutStrings\obj\Debug\netcoreapp3.1\AllAboutStrings.genruntimeconfig.cache
