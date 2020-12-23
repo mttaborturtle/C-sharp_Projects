@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\income_comparison.cs\obj\Debug\netcoreapp3.1\income_comparison.cs.csprojAssemblyReference.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\income_comparison.cs\obj\Debug\netcoreapp3.1\income_comparison.cs.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\income_comparison.cs\obj\Debug\netcoreapp3.1\income_comparison.cs.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\income_comparison.cs\obj\Debug\netcoreapp3.1\income_comparison.cs.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\income_comparison.cs\bin\Debug\netcoreapp3.1\income_comparison.cs.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\income_comparison.cs\bin\Debug\netcoreapp3.1\income_comparison.cs.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\income_comparison.cs\bin\Debug\netcoreapp3.1\income_comparison.cs.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\income_comparison.cs\bin\Debug\netcoreapp3.1\income_comparison.cs.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\income_comparison.cs\bin\Debug\netcoreapp3.1\income_comparison.cs.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\income_comparison.cs\bin\Debug\netcoreapp3.1\income_comparison.cs.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\income_comparison.cs\obj\Debug\netcoreapp3.1\income_comparison.cs.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\income_comparison.cs\obj\Debug\netcoreapp3.1\income_comparison.cs.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\income_comparison.cs\obj\Debug\netcoreapp3.1\income_comparison.cs.genruntimeconfig.cache

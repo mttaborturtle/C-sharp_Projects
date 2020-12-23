@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\income_comparison.cs",
+    "\\StudentDailyReport.cs"
   ],
+  "SelectedNode": "\\income_comparison.cs\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
