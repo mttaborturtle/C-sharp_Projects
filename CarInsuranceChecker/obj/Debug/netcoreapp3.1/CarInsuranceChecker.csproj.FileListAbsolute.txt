@@ -1,0 +1,12 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\CarInsuranceChecker\bin\Debug\netcoreapp3.1\CarInsuranceChecker.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\CarInsuranceChecker\bin\Debug\netcoreapp3.1\CarInsuranceChecker.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\CarInsuranceChecker\bin\Debug\netcoreapp3.1\CarInsuranceChecker.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\CarInsuranceChecker\bin\Debug\netcoreapp3.1\CarInsuranceChecker.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\CarInsuranceChecker\bin\Debug\netcoreapp3.1\CarInsuranceChecker.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\CarInsuranceChecker\bin\Debug\netcoreapp3.1\CarInsuranceChecker.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\CarInsuranceChecker\obj\Debug\netcoreapp3.1\CarInsuranceChecker.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\CarInsuranceChecker\obj\Debug\netcoreapp3.1\CarInsuranceChecker.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\CarInsuranceChecker\obj\Debug\netcoreapp3.1\CarInsuranceChecker.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\CarInsuranceChecker\obj\Debug\netcoreapp3.1\CarInsuranceChecker.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\CarInsuranceChecker\obj\Debug\netcoreapp3.1\CarInsuranceChecker.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\CarInsuranceChecker\obj\Debug\netcoreapp3.1\CarInsuranceChecker.genruntimeconfig.cache
