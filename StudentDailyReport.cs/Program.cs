@@ -21,7 +21,9 @@ namespace StudentDailyReport.cs
             pageNum = Convert.ToInt32(pNum);
             
             Console.WriteLine("Do you need help with anything? Please answer 'true' or 'false'");
+            bool YesorNo;
             string needHelp = Console.ReadLine();
+            YesorNo = Convert.ToBoolean(needHelp);
             
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
             string positiveEx = Console.ReadLine();
