@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.csprojAssemblyReference.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.genruntimeconfig.cache
