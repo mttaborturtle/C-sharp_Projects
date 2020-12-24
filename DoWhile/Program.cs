@@ -6,7 +6,14 @@ namespace DoWhile
     {
         static void Main()
         {
-            Console.WriteLine("Give me a number less than 20 to count up to:");
+            int a = 0;
+            while (a < 10)
+            {
+                Console.WriteLine("How man times?: " + a);
+                a++;
+            }
+
+            Console.WriteLine("\nGive me a number less than 20 to count up to:");
             int endNum = Convert.ToInt32(Console.ReadLine());
             int i = 0;
 
