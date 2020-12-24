@@ -9,7 +9,7 @@ namespace DoWhile
             int a = 0;
             while (a < 10)
             {
-                Console.WriteLine("How man times?: " + a);
+                Console.WriteLine("How many times?: " + a);
                 a++;
             }
 
