@@ -104,6 +104,7 @@ namespace IterateMe
             Console.WriteLine("\nHit enter to continue....");
             Console.ReadLine();
 
+            //Display the list item by item and identify if the item has been shown before or not
             List<string> names4 = new List<string>() { "Bob", "Rachel", "Rachel", "Josie", "Ruth", "Jess" };
             List<string> namesCopy = new List<string>();
 
