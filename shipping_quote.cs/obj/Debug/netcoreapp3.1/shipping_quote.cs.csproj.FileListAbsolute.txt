@@ -10,3 +10,4 @@ C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.c
 C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\obj\Debug\netcoreapp3.1\shipping_quote.cs.dll
 C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\obj\Debug\netcoreapp3.1\shipping_quote.cs.pdb
 C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\obj\Debug\netcoreapp3.1\shipping_quote.cs.genruntimeconfig.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\shipping_quote.cs\obj\Debug\netcoreapp3.1\shipping_quote.cs.csprojAssemblyReference.cache
