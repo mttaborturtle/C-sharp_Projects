@@ -44,7 +44,7 @@ namespace ArraysAndLists
             strList.Add("is!!!");
             Console.WriteLine("Please select a number between 0-5 which will show a word in a string:");
             int selectWord = Convert.ToInt32(Console.ReadLine());
-            if (selectNum > 5)
+            if (selectWord > 5)
                 {
                     Console.WriteLine("Please pick a number between 0 and 5. Try again...\n");
                 }
@@ -77,7 +77,12 @@ namespace ArraysAndLists
 
             Console.WriteLine(numArray3[5]);
 
+            List<string> namez = new List<string>() { "Bob", "George", "Andrew", "Casey", "Walter" };
 
+            foreach (string name in namez)
+            {
+                Console.WriteLine(name + " is someone's name!");
+            }
         }
     }
 }

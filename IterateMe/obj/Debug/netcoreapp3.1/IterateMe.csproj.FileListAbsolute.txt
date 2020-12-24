@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\IterateMe\bin\Debug\netcoreapp3.1\IterateMe.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\IterateMe\bin\Debug\netcoreapp3.1\IterateMe.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\IterateMe\bin\Debug\netcoreapp3.1\IterateMe.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\IterateMe\bin\Debug\netcoreapp3.1\IterateMe.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\IterateMe\bin\Debug\netcoreapp3.1\IterateMe.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\IterateMe\bin\Debug\netcoreapp3.1\IterateMe.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\IterateMe\obj\Debug\netcoreapp3.1\IterateMe.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\IterateMe\obj\Debug\netcoreapp3.1\IterateMe.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\IterateMe\obj\Debug\netcoreapp3.1\IterateMe.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\IterateMe\obj\Debug\netcoreapp3.1\IterateMe.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\IterateMe\obj\Debug\netcoreapp3.1\IterateMe.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\IterateMe\obj\Debug\netcoreapp3.1\IterateMe.genruntimeconfig.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\IterateMe\obj\Debug\netcoreapp3.1\IterateMe.csprojAssemblyReference.cache
