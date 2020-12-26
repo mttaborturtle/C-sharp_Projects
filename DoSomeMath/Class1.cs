@@ -6,49 +6,23 @@ namespace DoSomeMath
 {
     public class SomeMaths
     {
-        public void DoTheMath()
+        public int AddMe(int x)
         {
-            Console.WriteLine("Please enter a number: ");
-            Num1();
-            Console.WriteLine("Please enter a number: ");
-            Num2();
 
-
-            AddMe();
-            subtractMe();
-            MultMe();
-
-
+            int result = x + 5;
+            return result;
         }
 
-        public void Num1()
+        public int SubtractMe(int x)
         {
-        int number1 = Convert.ToInt32(Console.ReadLine());
+            int result = x - 5;
+            return result;
         }
 
-        public void Num2()
+        public int MultMe(int x)
         {
-        int number2 = Convert.ToInt32(Console.ReadLine());
+            int result = x * 5;
+            return result;
         }
-
-        public void AddMe()
-            {
-               
-                //int added = number1 + num2;
-                Console.WriteLine("This is a test");
-            }
-
-        public void subtractMe()
-        {
-            //int subbed = AddMe.num1 - num2;
-            Console.WriteLine("This is a test");
-        }
-
-        public void MultMe()
-        {
-            Console.WriteLine("This is a test");
-        }
-
-
     }
 }
