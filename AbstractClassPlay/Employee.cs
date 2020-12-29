@@ -8,11 +8,13 @@ namespace AbstractClassPlay
 {
     public class Employee : Person, IQuittable
     {
+        //Do something with the person created
         public override void SayName()
         {
             Console.WriteLine("Name: " + fName + " " + lName);
         }
 
+        //It looks like the person quit so it uses the interface to announce that they quit!
         public void Quit()
         {
             Console.WriteLine("I quit!!!!");

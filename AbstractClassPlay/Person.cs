@@ -8,6 +8,7 @@ namespace AbstractClassPlay
 {
     public abstract class Person
     {
+        //Create a person here
         public string fName { get; set; }
         public string lName { get; set; }
 

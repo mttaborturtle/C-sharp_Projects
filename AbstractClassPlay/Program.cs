@@ -10,6 +10,7 @@ namespace AbstractClassPlay
     {
         static void Main(string[] args)
         {
+            //Create employee object and call Sayname method then the quit interface
             Employee emp1 = new Employee() { fName = "Sample", lName = "Student" };
             emp1.SayName();
             emp1.Quit();
