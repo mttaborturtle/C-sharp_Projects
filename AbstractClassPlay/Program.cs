@@ -12,6 +12,7 @@ namespace AbstractClassPlay
         {
             Employee emp1 = new Employee() { fName = "Sample", lName = "Student" };
             emp1.SayName();
+            emp1.Quit();
             
             Console.ReadLine();
         }
