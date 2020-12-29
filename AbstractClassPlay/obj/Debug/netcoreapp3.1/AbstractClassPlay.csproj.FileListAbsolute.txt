@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AbstractClassPlay\obj\Debug\netcoreapp3.1\AbstractClassPlay.csprojAssemblyReference.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AbstractClassPlay\obj\Debug\netcoreapp3.1\AbstractClassPlay.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AbstractClassPlay\obj\Debug\netcoreapp3.1\AbstractClassPlay.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AbstractClassPlay\obj\Debug\netcoreapp3.1\AbstractClassPlay.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AbstractClassPlay\bin\Debug\netcoreapp3.1\AbstractClassPlay.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AbstractClassPlay\bin\Debug\netcoreapp3.1\AbstractClassPlay.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AbstractClassPlay\bin\Debug\netcoreapp3.1\AbstractClassPlay.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AbstractClassPlay\bin\Debug\netcoreapp3.1\AbstractClassPlay.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AbstractClassPlay\bin\Debug\netcoreapp3.1\AbstractClassPlay.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AbstractClassPlay\bin\Debug\netcoreapp3.1\AbstractClassPlay.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AbstractClassPlay\obj\Debug\netcoreapp3.1\AbstractClassPlay.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AbstractClassPlay\obj\Debug\netcoreapp3.1\AbstractClassPlay.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AbstractClassPlay\obj\Debug\netcoreapp3.1\AbstractClassPlay.genruntimeconfig.cache
