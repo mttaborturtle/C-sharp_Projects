@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\EmployeeApp\bin\Debug\netcoreapp3.1\EmployeeApp.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\EmployeeApp\bin\Debug\netcoreapp3.1\EmployeeApp.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\EmployeeApp\bin\Debug\netcoreapp3.1\EmployeeApp.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\EmployeeApp\bin\Debug\netcoreapp3.1\EmployeeApp.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\EmployeeApp\bin\Debug\netcoreapp3.1\EmployeeApp.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\EmployeeApp\bin\Debug\netcoreapp3.1\EmployeeApp.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.csprojAssemblyReference.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\EmployeeApp\obj\Debug\netcoreapp3.1\EmployeeApp.genruntimeconfig.cache
