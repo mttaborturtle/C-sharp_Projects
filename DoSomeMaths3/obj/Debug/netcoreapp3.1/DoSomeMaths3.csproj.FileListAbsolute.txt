@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoSomeMaths3\bin\Debug\netcoreapp3.1\DoSomeMaths3.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoSomeMaths3\bin\Debug\netcoreapp3.1\DoSomeMaths3.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoSomeMaths3\bin\Debug\netcoreapp3.1\DoSomeMaths3.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoSomeMaths3\bin\Debug\netcoreapp3.1\DoSomeMaths3.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoSomeMaths3\bin\Debug\netcoreapp3.1\DoSomeMaths3.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoSomeMaths3\bin\Debug\netcoreapp3.1\DoSomeMaths3.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoSomeMaths3\obj\Debug\netcoreapp3.1\DoSomeMaths3.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoSomeMaths3\obj\Debug\netcoreapp3.1\DoSomeMaths3.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoSomeMaths3\obj\Debug\netcoreapp3.1\DoSomeMaths3.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoSomeMaths3\obj\Debug\netcoreapp3.1\DoSomeMaths3.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoSomeMaths3\obj\Debug\netcoreapp3.1\DoSomeMaths3.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoSomeMaths3\obj\Debug\netcoreapp3.1\DoSomeMaths3.genruntimeconfig.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\DoSomeMaths3\obj\Debug\netcoreapp3.1\DoSomeMaths3.csprojAssemblyReference.cache
