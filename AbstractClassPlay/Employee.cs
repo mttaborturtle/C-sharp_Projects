@@ -11,7 +11,7 @@ namespace AbstractClassPlay
         //Do something with the person created
         public override void SayName()
         {
-            Console.WriteLine("Name: " + fName + " " + lName);
+            Console.WriteLine("Name: " + fName + " " + lName + " ID number: " + id);
         }
 
         //It looks like the person quit so it uses the interface to announce that they quit!

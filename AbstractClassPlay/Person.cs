@@ -12,16 +12,18 @@ namespace AbstractClassPlay
         public string fName { get; set; }
         public string lName { get; set; }
 
+        public int id { get; set; }
+
         public abstract void SayName();
 
-        public static Person operator ==(Employee employee)
+        public static bool operator ==(Employee employee, Employee employee2)
         {
-            Console.WriteLine("The first name matches...");
+            return employee.id == employee2.id;
         }
 
-        public static Person operator !=(Employee employee)
+        public static bool operator !=(Employee employee, Employee employee2)
         {
-            Console.WriteLine("The first name does not match...");
+            return employee.id != employee2.id;
         }
     }
 }

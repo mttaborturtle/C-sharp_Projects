@@ -14,12 +14,23 @@ namespace AbstractClassPlay
             IQuittable LastWord = new Employee();
             
             //Create NewEmployee object and call Sayname method below
-            Employee NewEmployee = new Employee() { fName = "Sample", lName = "Student" };
-            
+            Employee NewEmployee = new Employee() { fName = "Bill", lName = "Mitcheson", id = 1 };
+            Employee NewEmployee2 = new Employee() { fName = "Stella", lName = "Blue", id = 2 };
+
             NewEmployee.SayName();
+            NewEmployee2.SayName();
             LastWord.Quit();
 
-            NewEmployee.fName == "Sample";
+            if (NewEmployee.id.Equals(NewEmployee2.id)) 
+            {
+                Console.WriteLine("NewEmployee has the same ID number as NewEmployee2");
+            }
+            else
+            {
+                Console.WriteLine("NewEmployee does not have the same ID number as NewEmployee2");
+            }
+
+            
 
 
             Console.ReadLine();
