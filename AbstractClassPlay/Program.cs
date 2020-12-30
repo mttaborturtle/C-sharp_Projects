@@ -19,6 +19,9 @@ namespace AbstractClassPlay
             NewEmployee.SayName();
             LastWord.Quit();
 
+            NewEmployee.fName == "Sample";
+
+
             Console.ReadLine();
         }
     }

@@ -13,5 +13,15 @@ namespace AbstractClassPlay
         public string lName { get; set; }
 
         public abstract void SayName();
+
+        public static Person operator ==(Employee employee)
+        {
+            Console.WriteLine("The first name matches...");
+        }
+
+        public static Person operator !=(Employee employee)
+        {
+            Console.WriteLine("The first name does not match...");
+        }
     }
 }

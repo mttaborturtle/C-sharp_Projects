@@ -19,5 +19,7 @@ namespace AbstractClassPlay
         {
             Console.WriteLine("I quit!!!!");
         }
+
+        
     }
 }
