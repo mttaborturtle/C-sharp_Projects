@@ -10,11 +10,15 @@ namespace AbstractClassPlay
     {
         static void Main(string[] args)
         {
-            //Create employee object and call Sayname method then the quit interface
-            Employee emp1 = new Employee() { fName = "Sample", lName = "Student" };
-            emp1.SayName();
-            emp1.Quit();
+            //Create new IQuittable object in order to call the Iquit() method below
+            IQuittable LastWord = new Employee();
             
+            //Create NewEmployee object and call Sayname method below
+            Employee NewEmployee = new Employee() { fName = "Sample", lName = "Student" };
+            
+            NewEmployee.SayName();
+            LastWord.Quit();
+
             Console.ReadLine();
         }
     }
