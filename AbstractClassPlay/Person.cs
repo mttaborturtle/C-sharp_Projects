@@ -16,14 +16,5 @@ namespace AbstractClassPlay
 
         public abstract void SayName();
 
-        public static bool operator ==(Employee employee, Employee employee2)
-        {
-            return employee.id == employee2.id;
-        }
-
-        public static bool operator !=(Employee employee, Employee employee2)
-        {
-            return employee.id != employee2.id;
-        }
     }
 }

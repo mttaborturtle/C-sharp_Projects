@@ -11,15 +11,23 @@ namespace AbstractClassPlay
         //Do something with the person created
         public override void SayName()
         {
-            Console.WriteLine("Name: " + fName + " " + lName + " ID number: " + id);
+            Console.WriteLine("\nName: " + fName + " " + lName + ", ID number: " + id);
         }
 
         //It looks like the person quit so it uses the interface to announce that they quit!
         public void Quit()
         {
-            Console.WriteLine("I quit!!!!");
+            Console.WriteLine("\nThis is my last day because I quit!!!!");
         }
 
-        
+        public static bool operator ==(Employee employee, Employee employee2)
+        {
+            return employee.id == employee2.id;
+        }
+
+        public static bool operator !=(Employee employee, Employee employee2)
+        {
+            return employee.id != employee2.id;
+        }
     }
 }

@@ -21,18 +21,14 @@ namespace AbstractClassPlay
             NewEmployee2.SayName();
             LastWord.Quit();
 
-            if (NewEmployee.id.Equals(NewEmployee2.id)) 
+            if (NewEmployee.id == NewEmployee2.id) 
             {
-                Console.WriteLine("NewEmployee has the same ID number as NewEmployee2");
+                Console.WriteLine("\nNewEmployee has the same ID number as NewEmployee2....");
             }
             else
             {
-                Console.WriteLine("NewEmployee does not have the same ID number as NewEmployee2");
+                Console.WriteLine("\nNewEmployee does not have the same ID number as NewEmployee2....");
             }
-
-            
-
-
             Console.ReadLine();
         }
     }
