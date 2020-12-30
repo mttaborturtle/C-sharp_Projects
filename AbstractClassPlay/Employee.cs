@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace AbstractClassPlay
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
+        public List<T> Things { get; set; }
+
+
         //Do something with the person created
         public override void SayName()
         {
@@ -20,14 +23,14 @@ namespace AbstractClassPlay
             Console.WriteLine("\nThis is my last day because I quit!!!!");
         }
 
-        public static bool operator ==(Employee employee, Employee employee2)
-        {
-            return employee.id == employee2.id;
-        }
+        //public static bool operator ==(Employee employee, Employee employee2)
+        //{
+        //    return employee.id == employee2.id;
+        //}
 
-        public static bool operator !=(Employee employee, Employee employee2)
-        {
-            return employee.id != employee2.id;
-        }
+        //public static bool operator !=(Employee employee, Employee employee2)
+        //{
+        //    return employee.id != employee2.id;
+        //}
     }
 }
