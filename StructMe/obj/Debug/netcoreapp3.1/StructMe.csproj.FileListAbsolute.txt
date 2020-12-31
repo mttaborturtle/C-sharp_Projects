@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StructMe\bin\Debug\netcoreapp3.1\StructMe.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StructMe\bin\Debug\netcoreapp3.1\StructMe.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StructMe\bin\Debug\netcoreapp3.1\StructMe.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StructMe\bin\Debug\netcoreapp3.1\StructMe.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StructMe\bin\Debug\netcoreapp3.1\StructMe.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StructMe\bin\Debug\netcoreapp3.1\StructMe.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StructMe\obj\Debug\netcoreapp3.1\StructMe.csprojAssemblyReference.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StructMe\obj\Debug\netcoreapp3.1\StructMe.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StructMe\obj\Debug\netcoreapp3.1\StructMe.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StructMe\obj\Debug\netcoreapp3.1\StructMe.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StructMe\obj\Debug\netcoreapp3.1\StructMe.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StructMe\obj\Debug\netcoreapp3.1\StructMe.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\StructMe\obj\Debug\netcoreapp3.1\StructMe.genruntimeconfig.cache

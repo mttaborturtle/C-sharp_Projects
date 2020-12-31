@@ -10,6 +10,8 @@ namespace TwentyOneGame
     {
         static void Main(string[] args)
         {
+
+
             Deck deck = new Deck();
             deck.Shuffle(3);
 
@@ -39,6 +41,13 @@ namespace TwentyOneGame
             //game += player;
             ////Remove the player
             //game -= player;
+
+            //Card card1 = new Card();
+            //Card card2 = card1;
+            //card1.Face = Face.Ace;
+            //card2.Face = Face.King;
+
+            //Console.WriteLine(card2.Face);
         }
 
         
