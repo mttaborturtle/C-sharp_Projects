@@ -22,32 +22,6 @@ namespace TwentyOneGame
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
 
-
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Turtle", "Stella Blue", "Rachel", "Ruthie" };
-            //game.ListPlayers();
-            //game.Play();
-
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Turtle", "Bob", "Jesse" };
-            //game.ListPlayers();
-            //Console.ReadLine();
-
-            //Game game = new TwentyOneGame();
-            //game.Players = new List<Player>();
-            //Player player = new Player();
-            //player.Name = "Turtski";
-            ////Add the player
-            //game += player;
-            ////Remove the player
-            //game -= player;
-
-            //Card card1 = new Card();
-            //Card card2 = card1;
-            //card1.Face = Face.Ace;
-            //card2.Face = Face.King;
-
-            //Console.WriteLine(card2.Face);
         }
 
         
