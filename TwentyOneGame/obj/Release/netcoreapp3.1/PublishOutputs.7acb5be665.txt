@@ -1,0 +1,5 @@
+C:\Users\mttab\Desktop\Builds\TwentyOneGame.exe
+C:\Users\mttab\Desktop\Builds\TwentyOneGame.dll
+C:\Users\mttab\Desktop\Builds\TwentyOneGame.deps.json
+C:\Users\mttab\Desktop\Builds\TwentyOneGame.runtimeconfig.json
+C:\Users\mttab\Desktop\Builds\TwentyOneGame.pdb

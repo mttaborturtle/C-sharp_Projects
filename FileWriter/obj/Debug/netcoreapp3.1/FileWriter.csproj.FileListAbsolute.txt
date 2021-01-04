@@ -1,0 +1,12 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\FileWriter\bin\Debug\netcoreapp3.1\FileWriter.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\FileWriter\bin\Debug\netcoreapp3.1\FileWriter.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\FileWriter\bin\Debug\netcoreapp3.1\FileWriter.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\FileWriter\bin\Debug\netcoreapp3.1\FileWriter.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\FileWriter\bin\Debug\netcoreapp3.1\FileWriter.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\FileWriter\bin\Debug\netcoreapp3.1\FileWriter.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\FileWriter\obj\Debug\netcoreapp3.1\FileWriter.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\FileWriter\obj\Debug\netcoreapp3.1\FileWriter.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\FileWriter\obj\Debug\netcoreapp3.1\FileWriter.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\FileWriter\obj\Debug\netcoreapp3.1\FileWriter.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\FileWriter\obj\Debug\netcoreapp3.1\FileWriter.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\FileWriter\obj\Debug\netcoreapp3.1\FileWriter.genruntimeconfig.cache

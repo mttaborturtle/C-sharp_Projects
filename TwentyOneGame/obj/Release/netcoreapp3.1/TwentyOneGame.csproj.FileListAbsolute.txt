@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\bin\Release\netcoreapp3.1\TwentyOneGame.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\bin\Release\netcoreapp3.1\TwentyOneGame.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\bin\Release\netcoreapp3.1\TwentyOneGame.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\bin\Release\netcoreapp3.1\TwentyOneGame.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\bin\Release\netcoreapp3.1\TwentyOneGame.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\bin\Release\netcoreapp3.1\TwentyOneGame.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\obj\Release\netcoreapp3.1\TwentyOneGame.csprojAssemblyReference.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\obj\Release\netcoreapp3.1\TwentyOneGame.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\obj\Release\netcoreapp3.1\TwentyOneGame.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\obj\Release\netcoreapp3.1\TwentyOneGame.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\obj\Release\netcoreapp3.1\TwentyOneGame.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\obj\Release\netcoreapp3.1\TwentyOneGame.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\obj\Release\netcoreapp3.1\TwentyOneGame.genruntimeconfig.cache
