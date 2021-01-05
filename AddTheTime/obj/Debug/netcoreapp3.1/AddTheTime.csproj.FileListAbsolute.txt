@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AddTheTime\bin\Debug\netcoreapp3.1\AddTheTime.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AddTheTime\bin\Debug\netcoreapp3.1\AddTheTime.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AddTheTime\bin\Debug\netcoreapp3.1\AddTheTime.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AddTheTime\bin\Debug\netcoreapp3.1\AddTheTime.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AddTheTime\bin\Debug\netcoreapp3.1\AddTheTime.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AddTheTime\bin\Debug\netcoreapp3.1\AddTheTime.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AddTheTime\obj\Debug\netcoreapp3.1\AddTheTime.csprojAssemblyReference.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AddTheTime\obj\Debug\netcoreapp3.1\AddTheTime.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AddTheTime\obj\Debug\netcoreapp3.1\AddTheTime.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AddTheTime\obj\Debug\netcoreapp3.1\AddTheTime.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AddTheTime\obj\Debug\netcoreapp3.1\AddTheTime.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AddTheTime\obj\Debug\netcoreapp3.1\AddTheTime.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AddTheTime\obj\Debug\netcoreapp3.1\AddTheTime.genruntimeconfig.cache

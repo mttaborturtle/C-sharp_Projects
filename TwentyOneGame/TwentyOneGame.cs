@@ -49,9 +49,10 @@ namespace TwentyOneGame
                         {
                             using (StreamWriter file = new StreamWriter(@"C:\Users\mttab\Logs\gamelog.txt", true))
                             {
+                                file.WriteLine(DateTime.Now);
                                 file.WriteLine("Player hits Blackjack.");
                             }
-                            Console.WriteLine("Blackjack!!!! {0} wins {1! Your balance is now {2}.", player.Name, Bets[player], player.Balance);
+                            Console.WriteLine("Blackjack!!!! {0} wins {1} Your balance is now {2}.", player.Name, Bets[player], player.Balance);
                             player.Balance += Convert.ToInt32((Bets[player] * 1.5) + Bets[player]);
                             return;
                         }
@@ -66,6 +67,7 @@ namespace TwentyOneGame
                     {
                         using (StreamWriter file = new StreamWriter(@"C:\Users\mttab\Logs\gamelog.txt", true))
                         {
+                            file.WriteLine(DateTime.Now);
                             file.WriteLine("Dealer hits Blackjack.");
                         }
                         Console.WriteLine("Dealer has Blackjack! Everyone else loses!!  Your balance is now {0}.", Players[0].Balance);
@@ -104,6 +106,7 @@ namespace TwentyOneGame
                         Dealer.Balance += Bets[player];
                         using (StreamWriter file = new StreamWriter(@"C:\Users\mttab\Logs\gamelog.txt", true))
                         {
+                            file.WriteLine(DateTime.Now);
                             file.WriteLine("Player lost one game.");
                         }
                         Console.WriteLine("{0} Busted! You lose your bet of {1}. Your balance is now {2}.", player.Name, Bets[player], player.Balance);
@@ -141,6 +144,7 @@ namespace TwentyOneGame
                 Console.WriteLine("Dealer Busted!");
                 using (StreamWriter file = new StreamWriter(@"C:\Users\mttab\Logs\gamelog.txt", true))
                 {
+                    file.WriteLine(DateTime.Now);
                     file.WriteLine("Player won one game.");
                 }
                 foreach (KeyValuePair<Player, int> entry in Bets)
@@ -158,6 +162,7 @@ namespace TwentyOneGame
                 {
                     using (StreamWriter file = new StreamWriter(@"C:\Users\mttab\Logs\gamelog.txt", true))
                     {
+                        file.WriteLine(DateTime.Now);
                         file.WriteLine("Game  was a draw.");
                     }
                     Console.WriteLine("Push! No one wins.");
@@ -167,6 +172,7 @@ namespace TwentyOneGame
                 {
                     using (StreamWriter file = new StreamWriter(@"C:\Users\mttab\Logs\gamelog.txt", true))
                     {
+                        file.WriteLine(DateTime.Now);
                         file.WriteLine("Player won one game.");
                     }
                     player.Balance += (Bets[player] * 2);
@@ -177,6 +183,7 @@ namespace TwentyOneGame
                 {
                     using (StreamWriter file = new StreamWriter(@"C:\Users\mttab\Logs\gamelog.txt", true))
                     {
+                        file.WriteLine(DateTime.Now);
                         file.WriteLine("Player lost one game.");
                     }
                     Dealer.Balance += Bets[player];
