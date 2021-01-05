@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\varNconst\bin\Debug\netcoreapp3.1\varNconst.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\varNconst\bin\Debug\netcoreapp3.1\varNconst.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\varNconst\bin\Debug\netcoreapp3.1\varNconst.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\varNconst\bin\Debug\netcoreapp3.1\varNconst.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\varNconst\bin\Debug\netcoreapp3.1\varNconst.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\varNconst\bin\Debug\netcoreapp3.1\varNconst.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\varNconst\obj\Debug\netcoreapp3.1\varNconst.csprojAssemblyReference.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\varNconst\obj\Debug\netcoreapp3.1\varNconst.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\varNconst\obj\Debug\netcoreapp3.1\varNconst.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\varNconst\obj\Debug\netcoreapp3.1\varNconst.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\varNconst\obj\Debug\netcoreapp3.1\varNconst.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\varNconst\obj\Debug\netcoreapp3.1\varNconst.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\varNconst\obj\Debug\netcoreapp3.1\varNconst.genruntimeconfig.cache

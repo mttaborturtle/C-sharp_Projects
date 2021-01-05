@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TwentyOneGame</id>
+    <version>1.0.0</version>
+    <authors>TwentyOneGame</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\bin\Debug\netcoreapp3.1\TwentyOneGame.runtimeconfig.json" target="lib\netcoreapp3.1\TwentyOneGame.runtimeconfig.json" />
+    <file src="C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\bin\Debug\netcoreapp3.1\TwentyOneGame.dll" target="lib\netcoreapp3.1\TwentyOneGame.dll" />
+  </files>
+</package>

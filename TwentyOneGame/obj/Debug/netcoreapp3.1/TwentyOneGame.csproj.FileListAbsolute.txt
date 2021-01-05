@@ -11,3 +11,6 @@ C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\ob
 C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\obj\Debug\netcoreapp3.1\TwentyOneGame.dll
 C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\obj\Debug\netcoreapp3.1\TwentyOneGame.pdb
 C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\obj\Debug\netcoreapp3.1\TwentyOneGame.genruntimeconfig.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\TwentyOneGame\obj\Debug\netcoreapp3.1\TwentyOneGame.csproj.CopyComplete

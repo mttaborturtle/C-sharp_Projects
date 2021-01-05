@@ -1,0 +1,9 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\Casino\bin\Debug\netstandard2.0\Casino.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\Casino\bin\Debug\netstandard2.0\Casino.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\Casino\bin\Debug\netstandard2.0\Casino.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\Casino\obj\Debug\netstandard2.0\Casino.csprojAssemblyReference.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\Casino\obj\Debug\netstandard2.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\Casino\obj\Debug\netstandard2.0\Casino.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\Casino\obj\Debug\netstandard2.0\Casino.pdb
