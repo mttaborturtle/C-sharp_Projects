@@ -1,0 +1,13 @@
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AskYourAge\bin\Debug\netcoreapp3.1\AskYourAge.exe
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AskYourAge\bin\Debug\netcoreapp3.1\AskYourAge.deps.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AskYourAge\bin\Debug\netcoreapp3.1\AskYourAge.runtimeconfig.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AskYourAge\bin\Debug\netcoreapp3.1\AskYourAge.runtimeconfig.dev.json
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AskYourAge\bin\Debug\netcoreapp3.1\AskYourAge.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AskYourAge\bin\Debug\netcoreapp3.1\AskYourAge.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AskYourAge\obj\Debug\netcoreapp3.1\AskYourAge.AssemblyInfoInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AskYourAge\obj\Debug\netcoreapp3.1\AskYourAge.AssemblyInfo.cs
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AskYourAge\obj\Debug\netcoreapp3.1\AskYourAge.csproj.CoreCompileInputs.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AskYourAge\obj\Debug\netcoreapp3.1\AskYourAge.dll
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AskYourAge\obj\Debug\netcoreapp3.1\AskYourAge.pdb
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AskYourAge\obj\Debug\netcoreapp3.1\AskYourAge.genruntimeconfig.cache
+C:\Users\mttab\source\repos\Tech_Academy_Basic_C-sharp_Projects\AskYourAge\obj\Debug\netcoreapp3.1\AskYourAge.csprojAssemblyReference.cache
